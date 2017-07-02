@@ -18,3 +18,5 @@ client = nexus_stats.Client()
 
 print(client.get_user_profile('OrangutanGaming').clan.name)
 ```
+
+More help availbile in the [documentation](http://nexus-stats-py.readthedocs.io).
