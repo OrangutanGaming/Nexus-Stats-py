@@ -3,3 +3,4 @@
 /dist/
 /nexus_stats.py.egg-info/
 __pycache__/
+/update.bat

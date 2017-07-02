@@ -3,4 +3,4 @@ __author__ = 'Orangutan'
 __license__ = 'MIT'
 __version__ = '0.1'
 
-from .API import Requester as Client
+from .api import Requester as Client

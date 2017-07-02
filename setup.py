@@ -12,6 +12,7 @@ if not version:
 
 setup(name="nexus-stats.py",
       author="Orangutan",
+      author_email="nihaal.s@live.co.uk",
       url="https://github.com/OrangutanGaming/Nexus-Stats-py",
       version=version,
       # package_dir={"": "nexus-stats"},
@@ -30,6 +31,6 @@ setup(name="nexus-stats.py",
         "Topic :: Internet",
         "Topic :: Software Development :: Libraries",
         "Topic :: Software Development :: Libraries :: Python Modules",
-        "Topic :: Utilities",
+        "Topic :: Utilities"
       ]
 )
