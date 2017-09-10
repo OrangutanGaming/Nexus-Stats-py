@@ -7,7 +7,7 @@ An easy to use Warframe API
 
 To download, simply run the following code
 ```
-pip install nexus_stats
+pip install nexus_stats.py
 ```
 
 Simple example
